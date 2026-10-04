@@ -14,4 +14,4 @@ maintainers:
   url: https://www.univention.de/
 name: intercom-service
 type: application
-version: 2.24.8
+version: 2.24.8-cosa.1
